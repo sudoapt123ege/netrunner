@@ -16,7 +16,7 @@ android.api = 34
 android.minapi = 21
 android.ndk_api = 21
 android.accept_sdk_license = True
-android.archs = arm64-v8a, armeabi-v7a, x86_64
+android.archs = armeabi-v7a
 android.permissions = INTERNET
 
 p4a.local_recipes = p4a-recipes
